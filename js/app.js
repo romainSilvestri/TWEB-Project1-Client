@@ -6,7 +6,7 @@
 // https://medium.freecodecamp.org/environment-settings-in-javascript-apps-c5f9744282b6
 const baseUrl = window.location.hostname === 'localhost'
   ? 'http://localhost:3000'
-  : 'https://githubfrequencies.herokuapp.com/';
+  : 'https://githubfrequencies.herokuapp.com';
 
 
 const defaultSearch = 'octocat';
